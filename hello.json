@@ -1,0 +1,10 @@
+{
+    "id": "basic-2", 
+    "cmd": "chmod u+x hello-basic && ./hello-basic",
+    "cpus": 0.1,
+    "mem": 10.0,
+    "instances": 1,
+    "uris": [
+        "https://github.com/robbiemclaren/realtimedata/raw/master/hello-basic"
+    ]
+}
